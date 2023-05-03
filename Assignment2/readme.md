@@ -1,0 +1,1 @@
+Feed forward neural networs, RNN, Gated RNN implementation in pytorch for rating predictions on amazon jewellery dataset, pre trained google's word2vec embeddings with 300 as embedding size as input vectors.
